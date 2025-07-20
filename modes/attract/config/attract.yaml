@@ -9,5 +9,5 @@ slide_player:
 
 sound_player:
   mode_attract_started:
-    song1:  
+    song2:  
       bus: music
